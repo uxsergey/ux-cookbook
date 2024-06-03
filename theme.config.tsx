@@ -7,6 +7,10 @@ const config: DocsThemeConfig = {
   footer: {
     text: "👨‍🍳 UX Cookbook ",
   },
+  feedback: {
+    content: null,
+  },
+
 };
 
 export default config;
