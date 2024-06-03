@@ -1,4 +1,18 @@
 {
-    "index": "Introduction",
-    "freebies": "Freebies"
+    "index": {
+        "title":"Introduction",
+        "theme": {
+            "sidebar": false,
+            "breadcrumb":false,
+            "pagination": false,
+            "toc":false
+      
+          }
+    },
+    "--": {
+        "type": "separator",
+        "title": "Freebies"
+      },
+    "freebies": "All Freebies"
+
 }
