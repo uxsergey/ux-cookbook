@@ -1,23 +1,5 @@
-# Nextra Docs Template 
+# UX Cookbook
+Hi, There! My name is Sergey. I'm a UX Designer, Mentor, and Visionary. Aside from my role as a UX Designer, I also serve as a mentor, guiding the future generations of UX professionals.
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+I would like to extend a warm welcome to you to my UX Cookbook. This is not just any cookbook, but the ultimate guide for anyone seeking to deepen their understanding of UX design. I have carefully curated and compiled all the essential knowledge, strategies, and insights that a UX designer would need to excel in this field.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
-
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
