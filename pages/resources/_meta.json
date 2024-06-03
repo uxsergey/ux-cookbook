@@ -2,11 +2,11 @@
     "index": {
         "title":"Introduction",
         "theme": {
-            "sidebar": false,
-            "breadcrumb":false,
-            "pagination": false,
-            "toc":false
-      
+          "breadcrumb": false,
+          "footer": true,
+          "sidebar": false,
+          "toc": false,
+          "pagination": false
           }
     },
     "--": {
