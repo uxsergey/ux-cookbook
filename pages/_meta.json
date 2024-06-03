@@ -1,14 +1,15 @@
 {
   "index": {
     "title": "Welcome",
-    "type": "page"
+    "type": "page",
+    "display": "hidden"
   },
   "resources": {
     "title": "Resources",
     "type": "page"
   },
-  "mentoring": {
-    "title": "Mentoring",
+  "about": {
+    "title": "About",
     "type": "page"
   }
 }
